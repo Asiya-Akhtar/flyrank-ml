@@ -644,7 +644,7 @@ The demonstration covers:
 
 **Demo Video:**
 
-PASTE YOUR 3–5 MINUTE DEMO VIDEO LINK HERE
+(https://drive.google.com/file/d/1FkwZeWPQsVwiEVvV152_e8rkUHQdVBab/view?usp=sharing)
 
 ---
 
@@ -656,7 +656,7 @@ https://github.com/Asiya-Akhtar/flyrank-ml
 
 **FL-09 Demo Video:**
 
-PASTE YOUR DEMO VIDEO LINK HERE
+(https://drive.google.com/file/d/1FkwZeWPQsVwiEVvV152_e8rkUHQdVBab/view?usp=sharing)
 
 ---
 
